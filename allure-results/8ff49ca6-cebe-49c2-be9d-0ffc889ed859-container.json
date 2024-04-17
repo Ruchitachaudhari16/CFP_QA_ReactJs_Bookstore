@@ -1,0 +1,1 @@
+{"uuid":"8ff49ca6-cebe-49c2-be9d-0ffc889ed859","name":"com.pages.BookStorepage.setup","children":["ee5b890b-f637-471b-84bf-2bbaa9aa9d26"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711963127990,"stop":1711963157135}],"afters":[],"start":1711963127988,"stop":1711963157135}
